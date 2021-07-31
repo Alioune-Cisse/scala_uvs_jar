@@ -1,6 +1,7 @@
 Télécharger le dossier complet dans votre environnement local
 
 Définissez le chemin du dossier bin dans vos variables d'environnement si vous êtes sur windows
+ <img src="v_environnement.png.jpg" height="400" alt="Variables d'envrionnement"/>
 
 Pour les utilisateurs d'Unix, donnez les droits d'accès en tapant la commande : $ chmod +x /path/to/bin/scolarite_project
 Noter que vous remplacerez path/to par le chemin qui mène à votre dossier bin.
@@ -12,11 +13,8 @@ se trouve dans le dossier que vous venez de télécharger
 
 Enfin ouvrez votre terminal et tapez scolarite_project, vous aurez un message du genre :
 
-C:\Users\lenovo>scolarite_project
-Le système ne peut trouver le fichier C:\Program Files (x86)\scolarite_project-1.0-SNAPSHOT\bin\\\..\SCOLARITE_PROJECT_config.txt.
-Play server process ID is 11164
-[info] play - database [default] connected at jdbc:mysql://localhost/uvs?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
-[info] play - Application started (Prod)
-[info] play - Listening for HTTP on /[0:0:0:0:0:0:0:0]:9000
+ <img src="cmd.png" height="400" alt="Terminal"/>
 
 Parfait, tout fonctionne maintenant; pour vérifier, allez dans votre navigateur préféré (google chrome par exemple) et tapez https://localhost:9000/
+
+
