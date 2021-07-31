@@ -11,12 +11,12 @@ Ensuite, cliquez sur la base de données nouvellement crée; allez sur l'onglet 
 se trouve dans le dossier que vous venez de télécharger
 
 Enfin ouvrez votre terminal et tapez scolarite_project, vous aurez un message du genre :
+
 C:\Users\lenovo>scolarite_project
 Le système ne peut trouver le fichier C:\Program Files (x86)\scolarite_project-1.0-SNAPSHOT\bin\\\..\SCOLARITE_PROJECT_config.txt.
-Play server process ID is 10280
+Play server process ID is 11164
 [info] play - database [default] connected at jdbc:mysql://localhost/uvs?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
 [info] play - Application started (Prod)
 [info] play - Listening for HTTP on /[0:0:0:0:0:0:0:0]:9000
-
 
 Parfait, tout fonctionne maintenant; pour vérifier, allez dans votre navigateur préféré (google chrome par exemple) et tapez https://localhost:9000/
