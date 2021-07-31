@@ -10,6 +10,8 @@ Noter que vous remplacerez path/to par le chemin qui mène à votre dossier bin.
 vous allez sur phpmyadmin et créer une nouvelle base de données que vous appellez "UVS"
 Ensuite, cliquez sur la base de données nouvellement crée; allez sur l'onglet importer et choisissez le fichier UVS.sql qui 
 se trouve dans le dossier que vous venez de télécharger
+ <img src="bdd.png" height="400" alt="Terminal"/>
+  <img src="bdd1.png" height="400" alt="Terminal"/>
 
 4. Enfin ouvrez votre terminal et tapez scolarite_project, vous aurez un message du genre :
 
