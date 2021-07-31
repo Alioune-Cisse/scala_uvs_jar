@@ -7,6 +7,8 @@ Noter que vous remplacerez path/to par le chemin qui mène à votre dossier bin.
 
 Ensuite vous ouvrez votre wamp server (ou xamp si vous êtes sur lunix ou mamp sur mac) ou autre plateforme permettant de traiter du mysql; 
 vous allez sur phpmyadmin et créer une nouvelle base de données que vous appellez "UVS"
+Ensuite, cliquez sur la base de données nouvellement crée; allez sur l'onglet importer et choisissez le fichier UVS.sql qui 
+se trouve dans le dossier que vous venez de télécharger
 
 Enfin ouvrez votre terminal et tapez scolarite_project, vous aurez un message du genre :
 C:\Users\lenovo>scolarite_project
