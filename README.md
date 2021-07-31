@@ -13,7 +13,7 @@ se trouve dans le dossier que vous venez de télécharger
 
 Enfin ouvrez votre terminal et tapez scolarite_project, vous aurez un message du genre :
 
- <img src="cmd.png" height="400" alt="Terminal"/>
+ <img src="cmd.png" height="200" alt="Terminal"/>
 
 Parfait, tout fonctionne maintenant; pour vérifier, allez dans votre navigateur préféré (google chrome par exemple) et tapez http://localhost:9000/
 
