@@ -1,4 +1,4 @@
-1. Télécharger le dossier complet dans votre environnement local
+1. Télécharger le dossier complet dans votre environnement local et décompressez le
 
 2. Définissez le chemin du dossier bin dans vos variables d'environnement si vous êtes sur windows
  <img src="v_environnement.png.jpg" height="400" alt="Variables d'envrionnement"/>
