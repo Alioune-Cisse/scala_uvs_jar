@@ -18,3 +18,4 @@ Enfin ouvrez votre terminal et tapez scolarite_project, vous aurez un message du
 Parfait, tout fonctionne maintenant; pour vérifier, allez dans votre navigateur préféré (google chrome par exemple) et tapez https://localhost:9000/
 
 
+ <img src="welc.png" height="400" alt="Ce qui devrait s'afficher"/>
